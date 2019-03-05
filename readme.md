@@ -2,6 +2,12 @@
 
 Description
 
+## Assets
+
+- **Font:** [Nunito](https://fonts.google.com/specimen/Nunito)
+- **Images:** Located in assets directory
+
+
 ## Screens
 
 Description
