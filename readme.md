@@ -1,38 +1,55 @@
 # Developer Challenge 1
 
-Description
+Using [Meteor](https://www.meteor.com/) with [Blaze](http://blazejs.org/) and provided assets;  create a simple directory application.
+
+
+## Requirements
+
+UX/UI/Visuals must match provided assets.
+
+A user must be able to:
+
+- Register/Login/Logout
+- Browse available agents (at least the 3 provided)
+- View an agent's profile
+- Leave a review and 1-5 star rating
+- Login/logout and browse from the header navigation
+
+Note:  Use of libraries is perfectly acceptable.
 
 ## Assets
+
+All visual assets for this project are provided.
 
 - **Font:** [Nunito](https://fonts.google.com/specimen/Nunito)
 - **Images:** Located in assets directory
 
 
-## Screens
+## Views
 
-Description
+The visual guide for the 4 required application views.
 
 ### 1. Login
 
-Description
+A user must be able to register and login.  Password recovery and email verification functionality is not required, but the visual elements should still exist.
 
 ![Login Screen](screens/1-login.jpg)
 
 
 ### 2. Listings
 
-Description
+A user must be able to browse the available agents.  The agent cards should be within a responsive grid.
 
 ![Login Screen](screens/2-listings.jpg)
 
 ### 3. Profile
 
-Description
+A user must be able to view a list of reviews for an agent.  All other visual elements are required to be present but functionality is optional.
 
 ![Login Screen](screens/3-profile.jpg)
 
 ### 4. Add Review
 
-Description
+A user must be able to leave a text review and 1-5 star rating for an agent.
 
 ![Login Screen](screens/4-review.jpg)
