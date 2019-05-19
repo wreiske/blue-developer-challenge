@@ -1,4 +1,6 @@
-# Developer Challenge 1
+# Developer Challenge Simple Directory
+
+This challenge should take 3-4 hours effort for a expert, 8 hours for someone not familiar with (blaze, bootstrap, router, etc.)
 
 Using [Meteor](https://www.meteor.com/) with [Blaze](http://blazejs.org/) and provided assets;  create a simple directory application.
 
