@@ -2,7 +2,9 @@
 
 This challenge should take 3-4 hours effort for a expert, 8 hours for someone not familiar with (blaze, bootstrap, router, etc.)
 
-Using [Meteor](https://www.meteor.com/) with [Blaze](http://blazejs.org/) and provided assets;  create a simple directory application.
+Using [MeteorJS v3](https://www.meteor.com/) with [Blaze](http://blazejs.org/) and provided assets;  create a simple directory application.
+
+[Meteor Documentation](https://docs.meteor.com/)
 
 
 ## Requirements
@@ -17,7 +19,12 @@ A user must be able to:
 - Leave a review and 1-5 star rating
 - Login/logout and browse from the header navigation
 
-Note:  Use of libraries is perfectly acceptable.
+Note:  Use of libraries is perfectly acceptable. [AtmosphereJS Packages](https://atmospherejs.com/) or [NPM](https://www.npmjs.com/)
+
+Reccomended Libraries:
+- https://packosphere.com/ostrio/flow-router-extra
+- https://atmospherejs.com/meteor/accounts-password
+- https://atmospherejs.com/fourseven/scss
 
 ## Assets
 
