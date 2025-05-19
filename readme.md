@@ -62,3 +62,8 @@ A user must be able to view a list of reviews for an agent.  All other visual el
 A user must be able to leave a text review and 1-5 star rating for an agent.
 
 ![Login Screen](screens/4-review.jpg)
+
+
+## Other
+
+Check out https://github.com/meteor/examples for some inspiration!
