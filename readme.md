@@ -21,7 +21,7 @@ A user must be able to:
 
 Note:  Use of libraries is perfectly acceptable. [AtmosphereJS Packages](https://atmospherejs.com/) or [NPM](https://www.npmjs.com/)
 
-Reccomended Libraries:
+Recommended Libraries:
 - https://packosphere.com/ostrio/flow-router-extra
 - https://atmospherejs.com/meteor/accounts-password
 - https://atmospherejs.com/fourseven/scss
